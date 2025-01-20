@@ -9,8 +9,8 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: yenij0178@gmail.com
-- 깃헙: https://github.com/yenijung
+- email: yenij0178@gmail.com
+- github: https://github.com/yenijung
 
 </br>
 
