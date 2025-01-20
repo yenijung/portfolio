@@ -15,13 +15,13 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
+### 1. [name]()
 >description
->개발 기간: 2019.2.18 ~ 2019.4.5  
+>activity duration:  
 >  
 >environment:  
 >  
 >  
->[further description](https://github.com/Integerous/goQuality)
+>[further description]()
 
 ---
