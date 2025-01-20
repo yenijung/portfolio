@@ -9,8 +9,8 @@
 </br>
 
 ## :pushpin: Contact
-- email: yenij0178@gmail.com
-- github: https://github.com/yenijung
+- Email: yenij0178@gmail.com
+- Github: https://github.com/yenijung
 
 </br>
 
